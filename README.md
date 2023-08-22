@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvaa5&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvaa5" /> </p>
 <h2>About me</h2>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Mearn stack**
+- 💬 Ask me about **Mern stack**
 
 - 📫 How to reach me **apoorvaagowda08@gmail.com**
 
