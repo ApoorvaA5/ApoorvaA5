@@ -47,10 +47,10 @@ From: 05 April 2023 - To: 24 October 2023
 Total Time: 504 hrs 55 mins
 
 JavaScript       127 hrs 30 mins ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-ReactJs          98 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+React.js         98 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   19.59 %
 Node.js          79 hrs 25 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
 MongoDB          49 hrs 34 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-C++              46 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+TypeScript       46 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 ```
 
 <!--END_SECTION:waka-->
