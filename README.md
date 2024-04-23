@@ -2,7 +2,7 @@
 ![MasterHead](https://i.redd.it/could-someone-please-remove-the-anime-girl-3840-x-2160-v0-7rbtyezhtp0a1.jpg?s=5806036ac6ac85aef1eff5bee6057155ffd0fbe4)
 <p align="center">“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai</p>
 
-<h2>Hi everyone(^^ゞ</h2>
+<h2>Hi everyone</h2>
 <h5>My name is Apoorva A Gowda, and I'm pursuing a Bachelor's degree in Electrical and Electronics. If nothing changes, I hope to be able to graduate as quickly as possible.</h5>
 <details>
   <summary>📃 My Resume</summary>
