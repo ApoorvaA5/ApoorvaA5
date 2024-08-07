@@ -10,7 +10,7 @@
 ### Education
 
 - 📖 **Electrical n Electronics Engineering**\
-📆 08/2019 - present\
+📆 08/2019 - 07/2023\
 📍 **Malnad College of Engineering** - Hassan, India.
 
 ### Experience
