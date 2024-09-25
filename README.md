@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.redd.it/could-someone-please-remove-the-anime-girl-3840-x-2160-v0-7rbtyezhtp0a1.jpg?s=5806036ac6ac85aef1eff5bee6057155ffd0fbe4)
+![MasterHead](https://wallpapersmug.com/download/1366x768/2b3bc0/little-lost-girl-cityscape-art.jpg)
 <p align="center">“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai</p>
 
 <h2>Hi everyone</h2>
