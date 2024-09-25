@@ -3,7 +3,7 @@
 <p align="center">“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai</p>
 
 <h2>Hi everyone</h2>
-<h5>My name is Apoorva A Gowda, and I'm pursuing a Bachelor's degree in Electrical and Electronics. If nothing changes, I hope to be able to graduate as quickly as possible.</h5>
+<h5>My name is Apoorva A Gowda, and I am working as a Software Developer at Akarmaxs Tech. If nothing changes, I hope to continue growing in my career and contribute effectively to the industry.</h5>
 <details>
   <summary>📃 My Resume</summary>
 
@@ -16,14 +16,21 @@
 ### Experience
 
 <img align="right" src="https://img.shields.io/badge/JavaScript-ant?style=flat&logo=javascript&logoColor=white&color=%230170FE"/>
+<img align="right" src="https://img.shields.io/badge/Java-ant?style=flat&logo=java&logoColor=white&color=%230170FE"/>
 <img align="right" src="https://img.shields.io/badge/React.js-black?style=flat&logo=react.js&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/SQL-ant?style=flat&logo=SQL&logoColor=white&color=%230170FE"/>
+<img align="right" src="https://img.shields.io/badge/MongoDB-ant?style=flat&logo=MongoDB&logoColor=white&color=%230170FE"/>
 
-
-- 👨‍💻 **Software Developer Intern**\
-📆 04/2023 - present\
-📍 **OnPay** - Bengaluru, India
   
+- 👨‍💻 **Software developer**\
+📆 07/2023 - present\
+📍 **Akarmaxs tech** - Bengaluru, India
+
+  
+- 👨‍💻 **Software Developer Intern**\
+📆 04/2023 - 6/2023\
+📍 **OnPay** - Bengaluru, India
 <!--
 ## Skills
 
