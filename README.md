@@ -3,7 +3,7 @@
 <p align="center">“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai</p>
 
 <h2>Hi everyone</h2>
-<h5>My name is Apoorva A Gowda, and I am working as a Software Developer at Akarmaxs Tech. If nothing changes, I hope to continue growing in my career and contribute effectively to the industry.</h5>
+<h5>My name is Apoorva A Gowda,I'm a Software Developer at Akarmaxs Tech, doing my best to turn coffee into clean code. If nothing changes, I hope to keep growing in my career and making an impact—one bug fix at a time!</h5>
 <details>
   <summary>📃 My Resume</summary>
 
